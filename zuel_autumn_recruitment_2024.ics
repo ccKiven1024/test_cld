@@ -6,7 +6,7 @@ METHOD:PUBLISH
 TZID:Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
 X-WR-CALDESC:This is a custom calendar description with updates.
-X-WR-CALNAME:Your Custom Calendar Name
+X-WR-CALNAME:中南财经政法大学秋招宣讲会
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
 SUMMARY:中国葛洲坝集团国际工程有限公司宣讲会
